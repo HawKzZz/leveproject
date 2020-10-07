@@ -1,0 +1,7 @@
+CI_ENVIRONMENT = development
+
+database.default.hostname = 'localhost: 3308'
+database.default.database = 'crud'
+database.default.username = 'root'
+database.default.password = ''
+database.default.DBDriver = 'mysqli'
